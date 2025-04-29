@@ -163,7 +163,7 @@ This practical application of **role-based access** and the **least privilege pr
 
 ## 📁 Suggested Folder Structure
 
-```
+
 ## 🖼️ Project Screenshots
 
 ### 👤 Creating IAM Users
