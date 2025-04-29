@@ -168,50 +168,50 @@ This practical application of **role-based access** and the **least privilege pr
 
 ### 👤 Creating IAM Users
 
-![John 1](imgs/creating%20user%20for%20john.png)
-![John 2](imgs/creating%20user%20for%20john1.png)
-![John 3](imgs/creating%20user%20for%20john2.png)
-![John 4](imgs/creating%20user%20for%20john3.png)
-![John 5](imgs/creating%20user%20for%20john4.png)
-![John 6](imgs/creating%20user%20for%20john5.png)
-![John 7](imgs/creating%20user%20for%20john6.png)
-![John 8](imgs/creating%20user%20for%20john7.png)
-![John 9](imgs/creating%20user%20for%20john8.png)
-![John 10](imgs/creating%20user%20for%20john9.png)
+![John 1](./imgs/creating%20user%20for%20john.png)
+![John 2](./imgs/creating%20user%20for%20john1.png)
+![John 3](./imgs/creating%20user%20for%20john2.png)
+![John 4](./imgs/creating%20user%20for%20john3.png)
+![John 5](./imgs/creating%20user%20for%20john4.png)
+![John 6](./imgs/creating%20user%20for%20john5.png)
+![John 7](./imgs/creating%20user%20for%20john6.png)
+![John 8](./imgs/creating%20user%20for%20john7.png)
+![John 9](./imgs/creating%20user%20for%20john8.png)
+![John 10](./imgs/creating%20user%20for%20john9.png)
 
-![Mary 1](imgs/creating%20user%20for%20mary.png)
-![Mary 2](imgs/creating%20user%20for%20mary1.png)
-![Mary 3](imgs/creating%20user%20for%20mary2.png)
-![Mary 4](imgs/creating%20user%20for%20mary3.png)
-![Mary 5](imgs/creating%20user%20for%20mary4.png)
+![Mary 1](./imgs/creating%20user%20for%20mary.png)
+![Mary 2](./imgs/creating%20user%20for%20mary1.png)
+![Mary 3](./imgs/creating%20user%20for%20mary2.png)
+![Mary 4](./imgs/creating%20user%20for%20mary3.png)
+![Mary 5](./imgs/creating%20user%20for%20mary4.png)
 
 ---
 
 ### 🔍 Testing IAM Permissions
 
-![John Test 1](imgs/john%20test.png)
-![John Test 2](imgs/john%20test1.png)
-![John Test 3](imgs/john%20test2.png)
-![John Test 4](imgs/john%20test3.png)
-![John Test 5](imgs/john%20test4.png)
+![John Test 1](./imgs/john%20test.png)
+![John Test 2](./imgs/john%20test1.png)
+![John Test 3](./imgs/john%20test2.png)
+![John Test 4](./imgs/john%20test3.png)
+![John Test 5](./imgs/john%20test4.png)
 
-![Mary Test 1](imgs/mary%20test.png)
-![Mary Test 2](imgs/mary%20test1.png)
-![Mary Test 3](imgs/mary%20test2.png)
-![Mary Test 4](imgs/mary%20test3.png)
-![Mary Test 5](imgs/mary%20test4.png)
-![Mary Test 6](imgs/mary%20test5.png)
-![Mary Test 7](imgs/mary%20test6.png)
-![Mary Test 8](imgs/mary%20test7.png)
-![Mary Test 9](imgs/mary%20test8.png)
+![Mary Test 1](./imgs/mary%20test.png)
+![Mary Test 2](./imgs/mary%20test1.png)
+![Mary Test 3](./imgs/mary%20test2.png)
+![Mary Test 4](./imgs/mary%20test3.png)
+![Mary Test 5](./imgs/mary%20test4.png)
+![Mary Test 6](./imgs/mary%20test5.png)
+![Mary Test 7](./imgs/mary%20test6.png)
+![Mary Test 8](./imgs/mary%20test7.png)
+![Mary Test 9](./mgs/mary%20test8.png)
 
 ---
 
 ### 🔐 Enabling MFA
 
-![John MFA 1](imgs/johnmfa1.png)
-![John MFA 2](imgs/johnmfa2.png)
-![John MFA 3](imgs/johnmfa3.png)
+![John MFA 1](./imgs/johnmfa1.png)
+![John MFA 2](./imgs/johnmfa2.png)
+![John MFA 3](./imgs/johnmfa3.png)
 
-![Mary MFA 1](imgs/marymfa.png)
-![Mary MFA 2](imgs/marymfa1.png)
+![Mary MFA 1](./imgs/marymfa.png)
+![Mary MFA 2](./imgs/marymfa1.png)
